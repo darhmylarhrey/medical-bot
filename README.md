@@ -1,3 +1,5 @@
+#Demo YouTube Link https://youtu.be/rafeuN3tuU4
+
 To set up your medical assistant chatbot environment, follow these steps:
 
 ## Setting Up Your Environment
@@ -73,6 +75,9 @@ To set up your medical assistant chatbot environment, follow these steps:
 2. **Further Customization:**
    - Customize the chatbot behavior, styling, and integration with external services as per your project requirements.
 
+### 6. External resources and references
+   - PMC Data download link https://figshare.com/articles/dataset/PMC-Patients_Dataset/24504115?backTo=/collections/PMC-Patients/6723465
+
 ## Conclusion
 
-This setup guide should help you get started with your medical assistant chatbot using Streamlit, Transformers (MedCPT), Weaviate, Ollama, and LangChain. Adjustments may be needed based on specific project requirements or dependencies.
+This setup guide should help you get started with your medical assistant chatbot using Streamlit, Transformers (MedCPT), Weaviate, Ollama, and LangChain. Adjustments may be needed based on your specific project requirements or dependencies.
