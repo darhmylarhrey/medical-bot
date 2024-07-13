@@ -2,6 +2,8 @@ import streamlit as st
 from transformers import AutoTokenizer, AutoModel
 import weaviate
 import torch
+import Ollama
+import langChain
 
 # Initialize Weaviate client
 client = weaviate.Client("http://localhost:8080")  # Update URL if using Weaviate Cloud
